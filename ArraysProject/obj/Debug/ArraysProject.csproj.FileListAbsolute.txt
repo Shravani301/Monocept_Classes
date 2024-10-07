@@ -1,0 +1,7 @@
+E:\DotNet\ArraysProject\bin\Debug\ArraysProject.exe.config
+E:\DotNet\ArraysProject\bin\Debug\ArraysProject.exe
+E:\DotNet\ArraysProject\bin\Debug\ArraysProject.pdb
+E:\DotNet\ArraysProject\obj\Debug\ArraysProject.csproj.AssemblyReference.cache
+E:\DotNet\ArraysProject\obj\Debug\ArraysProject.csproj.CoreCompileInputs.cache
+E:\DotNet\ArraysProject\obj\Debug\ArraysProject.exe
+E:\DotNet\ArraysProject\obj\Debug\ArraysProject.pdb

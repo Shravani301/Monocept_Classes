@@ -1,0 +1,7 @@
+E:\DotNet\AccountWithMaxBalanceApp\bin\Debug\AccountWithMaxBalanceApp.exe.config
+E:\DotNet\AccountWithMaxBalanceApp\bin\Debug\AccountWithMaxBalanceApp.exe
+E:\DotNet\AccountWithMaxBalanceApp\bin\Debug\AccountWithMaxBalanceApp.pdb
+E:\DotNet\AccountWithMaxBalanceApp\obj\Debug\AccountWithMaxBalanceApp.csproj.AssemblyReference.cache
+E:\DotNet\AccountWithMaxBalanceApp\obj\Debug\AccountWithMaxBalanceApp.csproj.CoreCompileInputs.cache
+E:\DotNet\AccountWithMaxBalanceApp\obj\Debug\AccountWithMaxBalanceApp.exe
+E:\DotNet\AccountWithMaxBalanceApp\obj\Debug\AccountWithMaxBalanceApp.pdb

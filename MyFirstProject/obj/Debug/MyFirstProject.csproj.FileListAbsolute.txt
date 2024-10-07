@@ -1,0 +1,7 @@
+E:\DotNet\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+E:\DotNet\MyFirstProject\bin\Debug\MyFirstProject.exe
+E:\DotNet\MyFirstProject\bin\Debug\MyFirstProject.pdb
+E:\DotNet\MyFirstProject\obj\Debug\MyFirstProject.csproj.AssemblyReference.cache
+E:\DotNet\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+E:\DotNet\MyFirstProject\obj\Debug\MyFirstProject.exe
+E:\DotNet\MyFirstProject\obj\Debug\MyFirstProject.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\ToStringApp\bin\Debug\ToStringApp.exe.config
+E:\DotNet\ToStringApp\bin\Debug\ToStringApp.exe
+E:\DotNet\ToStringApp\bin\Debug\ToStringApp.pdb
+E:\DotNet\ToStringApp\obj\Debug\ToStringApp.csproj.AssemblyReference.cache
+E:\DotNet\ToStringApp\obj\Debug\ToStringApp.csproj.CoreCompileInputs.cache
+E:\DotNet\ToStringApp\obj\Debug\ToStringApp.exe
+E:\DotNet\ToStringApp\obj\Debug\ToStringApp.pdb

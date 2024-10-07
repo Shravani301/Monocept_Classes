@@ -1,0 +1,7 @@
+E:\DotNet\ConstructorApp\bin\Debug\ConstructorApp.exe.config
+E:\DotNet\ConstructorApp\bin\Debug\ConstructorApp.exe
+E:\DotNet\ConstructorApp\bin\Debug\ConstructorApp.pdb
+E:\DotNet\ConstructorApp\obj\Debug\ConstructorApp.csproj.AssemblyReference.cache
+E:\DotNet\ConstructorApp\obj\Debug\ConstructorApp.csproj.CoreCompileInputs.cache
+E:\DotNet\ConstructorApp\obj\Debug\ConstructorApp.exe
+E:\DotNet\ConstructorApp\obj\Debug\ConstructorApp.pdb

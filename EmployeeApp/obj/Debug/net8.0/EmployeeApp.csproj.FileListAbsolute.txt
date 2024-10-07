@@ -1,0 +1,14 @@
+E:\DotNet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.exe
+E:\DotNet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.deps.json
+E:\DotNet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.runtimeconfig.json
+E:\DotNet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.dll
+E:\DotNet\EmployeeApp\bin\Debug\net8.0\EmployeeApp.pdb
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.AssemblyInfoInputs.cache
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.AssemblyInfo.cs
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.dll
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\refint\EmployeeApp.dll
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.pdb
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\EmployeeApp.genruntimeconfig.cache
+E:\DotNet\EmployeeApp\obj\Debug\net8.0\ref\EmployeeApp.dll

@@ -1,0 +1,14 @@
+E:\DotNet\AbstractApp\bin\Debug\net8.0\AbstractApp.exe
+E:\DotNet\AbstractApp\bin\Debug\net8.0\AbstractApp.deps.json
+E:\DotNet\AbstractApp\bin\Debug\net8.0\AbstractApp.runtimeconfig.json
+E:\DotNet\AbstractApp\bin\Debug\net8.0\AbstractApp.dll
+E:\DotNet\AbstractApp\bin\Debug\net8.0\AbstractApp.pdb
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.AssemblyInfoInputs.cache
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.AssemblyInfo.cs
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.csproj.CoreCompileInputs.cache
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.dll
+E:\DotNet\AbstractApp\obj\Debug\net8.0\refint\AbstractApp.dll
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.pdb
+E:\DotNet\AbstractApp\obj\Debug\net8.0\AbstractApp.genruntimeconfig.cache
+E:\DotNet\AbstractApp\obj\Debug\net8.0\ref\AbstractApp.dll

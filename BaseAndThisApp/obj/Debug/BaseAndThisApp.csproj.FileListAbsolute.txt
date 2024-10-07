@@ -1,0 +1,7 @@
+E:\DotNet\BaseAndThisApp\bin\Debug\BaseAndThisApp.exe.config
+E:\DotNet\BaseAndThisApp\bin\Debug\BaseAndThisApp.exe
+E:\DotNet\BaseAndThisApp\bin\Debug\BaseAndThisApp.pdb
+E:\DotNet\BaseAndThisApp\obj\Debug\BaseAndThisApp.csproj.AssemblyReference.cache
+E:\DotNet\BaseAndThisApp\obj\Debug\BaseAndThisApp.csproj.CoreCompileInputs.cache
+E:\DotNet\BaseAndThisApp\obj\Debug\BaseAndThisApp.exe
+E:\DotNet\BaseAndThisApp\obj\Debug\BaseAndThisApp.pdb

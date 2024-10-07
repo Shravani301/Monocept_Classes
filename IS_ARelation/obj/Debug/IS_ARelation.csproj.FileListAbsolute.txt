@@ -1,0 +1,7 @@
+E:\DotNet\IS_ARelation\bin\Debug\IS_ARelation.exe.config
+E:\DotNet\IS_ARelation\bin\Debug\IS_ARelation.exe
+E:\DotNet\IS_ARelation\bin\Debug\IS_ARelation.pdb
+E:\DotNet\IS_ARelation\obj\Debug\IS_ARelation.csproj.AssemblyReference.cache
+E:\DotNet\IS_ARelation\obj\Debug\IS_ARelation.csproj.CoreCompileInputs.cache
+E:\DotNet\IS_ARelation\obj\Debug\IS_ARelation.exe
+E:\DotNet\IS_ARelation\obj\Debug\IS_ARelation.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\ThreeClassesDemo\bin\Debug\ThreeClassesDemo.exe.config
+E:\DotNet\ThreeClassesDemo\bin\Debug\ThreeClassesDemo.exe
+E:\DotNet\ThreeClassesDemo\bin\Debug\ThreeClassesDemo.pdb
+E:\DotNet\ThreeClassesDemo\obj\Debug\ThreeClassesDemo.csproj.AssemblyReference.cache
+E:\DotNet\ThreeClassesDemo\obj\Debug\ThreeClassesDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\ThreeClassesDemo\obj\Debug\ThreeClassesDemo.exe
+E:\DotNet\ThreeClassesDemo\obj\Debug\ThreeClassesDemo.pdb

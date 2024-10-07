@@ -1,0 +1,14 @@
+E:\DotNet\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.exe
+E:\DotNet\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.deps.json
+E:\DotNet\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.runtimeconfig.json
+E:\DotNet\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.dll
+E:\DotNet\MultipleInheritance\bin\Debug\net8.0\MultipleInheritance.pdb
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.AssemblyInfoInputs.cache
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.AssemblyInfo.cs
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.csproj.CoreCompileInputs.cache
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.dll
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\refint\MultipleInheritance.dll
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.pdb
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\MultipleInheritance.genruntimeconfig.cache
+E:\DotNet\MultipleInheritance\obj\Debug\net8.0\ref\MultipleInheritance.dll

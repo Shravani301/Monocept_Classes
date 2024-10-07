@@ -1,0 +1,7 @@
+E:\DotNet\ChildParentReferenceApp\bin\Debug\ChildParentReferenceApp.exe.config
+E:\DotNet\ChildParentReferenceApp\bin\Debug\ChildParentReferenceApp.exe
+E:\DotNet\ChildParentReferenceApp\bin\Debug\ChildParentReferenceApp.pdb
+E:\DotNet\ChildParentReferenceApp\obj\Debug\ChildParentReferenceApp.csproj.AssemblyReference.cache
+E:\DotNet\ChildParentReferenceApp\obj\Debug\ChildParentReferenceApp.csproj.CoreCompileInputs.cache
+E:\DotNet\ChildParentReferenceApp\obj\Debug\ChildParentReferenceApp.exe
+E:\DotNet\ChildParentReferenceApp\obj\Debug\ChildParentReferenceApp.pdb

@@ -1,0 +1,14 @@
+E:\DotNet\InterfaceAndAbstract\bin\Debug\net8.0\InterfaceAndAbstract.exe
+E:\DotNet\InterfaceAndAbstract\bin\Debug\net8.0\InterfaceAndAbstract.deps.json
+E:\DotNet\InterfaceAndAbstract\bin\Debug\net8.0\InterfaceAndAbstract.runtimeconfig.json
+E:\DotNet\InterfaceAndAbstract\bin\Debug\net8.0\InterfaceAndAbstract.dll
+E:\DotNet\InterfaceAndAbstract\bin\Debug\net8.0\InterfaceAndAbstract.pdb
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.AssemblyInfoInputs.cache
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.AssemblyInfo.cs
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.csproj.CoreCompileInputs.cache
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.dll
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\refint\InterfaceAndAbstract.dll
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.pdb
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\InterfaceAndAbstract.genruntimeconfig.cache
+E:\DotNet\InterfaceAndAbstract\obj\Debug\net8.0\ref\InterfaceAndAbstract.dll

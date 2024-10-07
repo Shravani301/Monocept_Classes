@@ -1,0 +1,7 @@
+E:\DotNet\StaticInstanceDemo\bin\Debug\StaticInstanceDemo.exe.config
+E:\DotNet\StaticInstanceDemo\bin\Debug\StaticInstanceDemo.exe
+E:\DotNet\StaticInstanceDemo\bin\Debug\StaticInstanceDemo.pdb
+E:\DotNet\StaticInstanceDemo\obj\Debug\StaticInstanceDemo.csproj.AssemblyReference.cache
+E:\DotNet\StaticInstanceDemo\obj\Debug\StaticInstanceDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\StaticInstanceDemo\obj\Debug\StaticInstanceDemo.exe
+E:\DotNet\StaticInstanceDemo\obj\Debug\StaticInstanceDemo.pdb

@@ -1,0 +1,4 @@
+E:\DotNet\Employee\obj\Debug\EmployeeApp.csproj.AssemblyReference.cache
+E:\DotNet\Employee\obj\Debug\EmployeeApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Employee\obj\Debug\Employee.exe
+E:\DotNet\Employee\obj\Debug\Employee.pdb

@@ -1,0 +1,7 @@
+E:\DotNet\DomainMapping\bin\Debug\DomainMapping.exe.config
+E:\DotNet\DomainMapping\bin\Debug\DomainMapping.exe
+E:\DotNet\DomainMapping\bin\Debug\DomainMapping.pdb
+E:\DotNet\DomainMapping\obj\Debug\DomainMapping.csproj.AssemblyReference.cache
+E:\DotNet\DomainMapping\obj\Debug\DomainMapping.csproj.CoreCompileInputs.cache
+E:\DotNet\DomainMapping\obj\Debug\DomainMapping.exe
+E:\DotNet\DomainMapping\obj\Debug\DomainMapping.pdb

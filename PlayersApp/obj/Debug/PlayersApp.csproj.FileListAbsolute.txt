@@ -1,0 +1,7 @@
+E:\DotNet\PlayersApp\bin\Debug\PlayersApp.exe.config
+E:\DotNet\PlayersApp\bin\Debug\PlayersApp.exe
+E:\DotNet\PlayersApp\bin\Debug\PlayersApp.pdb
+E:\DotNet\PlayersApp\obj\Debug\PlayersApp.csproj.AssemblyReference.cache
+E:\DotNet\PlayersApp\obj\Debug\PlayersApp.csproj.CoreCompileInputs.cache
+E:\DotNet\PlayersApp\obj\Debug\PlayersApp.exe
+E:\DotNet\PlayersApp\obj\Debug\PlayersApp.pdb
