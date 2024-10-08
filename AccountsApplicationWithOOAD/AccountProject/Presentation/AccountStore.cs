@@ -162,7 +162,7 @@ namespace AccountProject.Presentation
                 Console.WriteLine("Enter Account Number");
                 int id = Convert.ToInt32(Console.ReadLine());
                 Account account = AccountManager.GetAccount(id);
-                Console.WriteLine(manager.ShowTransactionsForAccount(id));
+                Console.WriteLine(account.ShowTransactionsForAccount(id));
             }
             catch (AccountNotFoundException ex)
             {

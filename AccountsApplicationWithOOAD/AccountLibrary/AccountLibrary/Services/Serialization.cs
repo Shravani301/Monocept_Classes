@@ -11,7 +11,7 @@ namespace AccountLibrary.Services
 {
     public class Serialization
     {
-        static string FilePath = @"E:\DotNet\AccountLibrary\AccountsData.json";
+        static string FilePath = @"E:\DotNet\Monocept_Classes\AccountsApplicationWithOOAD\AccountLibrary\AccountsData.json";
         public static List<Account> Deserialze()
         {
             if (!File.Exists(FilePath))
@@ -21,7 +21,7 @@ namespace AccountLibrary.Services
             var jsonData = File.ReadAllText(FilePath);
             return JsonSerializer.Deserialize<List<Account>>(jsonData);
         }
-        public static string Serialize(List<Account> accounts, List<Transaction> transactions)
+        public static string Serialize(List<Account> accounts)
         {
             using (StreamWriter sw = new StreamWriter(FilePath))
             {

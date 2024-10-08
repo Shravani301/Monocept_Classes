@@ -7,11 +7,6 @@ using System.Threading.Tasks;
 
 namespace AccountLibrary.Models
 {
-    public enum TransactionType
-    {
-        Credit,
-        Debit
-    }
     public class Transaction
     {
         public string Id { get; set; }
@@ -21,9 +16,9 @@ namespace AccountLibrary.Models
         public int AccountId { get; set; }
 
 
-        public static string GenerateTransactionId(Account account)
+        public static string GenerateTransactionId(int accId)
         {
-            return "TXID" + account.AccountId + DateTime.Now.Ticks;
+            return "TXID" + accId + DateTime.Now.Ticks;
 
         }
 

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AccountProject
-build_property.ProjectDir = E:\DotNet\AccountProject\
+build_property.ProjectDir = E:\DotNet\Monocept_Classes\AccountsApplicationWithOOAD\AccountProject\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

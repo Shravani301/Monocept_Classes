@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\AccountLibrary.csproj",
+      "projectUniqueName": "E:\\DotNet\\Monocept_Classes\\AccountsApplicationWithOOAD\\AccountLibrary\\AccountLibrary\\AccountLibrary.csproj",
       "projectName": "AccountLibrary",
-      "projectPath": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\AccountLibrary.csproj",
+      "projectPath": "E:\\DotNet\\Monocept_Classes\\AccountsApplicationWithOOAD\\AccountLibrary\\AccountLibrary\\AccountLibrary.csproj",
       "packagesPath": "C:\\Users\\shrav\\.nuget\\packages\\",
-      "outputPath": "E:\\DotNet\\AccountLibrary\\AccountLibrary\\obj\\",
+      "outputPath": "E:\\DotNet\\Monocept_Classes\\AccountsApplicationWithOOAD\\AccountLibrary\\AccountLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shrav\\AppData\\Roaming\\NuGet\\NuGet.Config",
