@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.exe
+E:\DotNet\Monocept_Classes\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.deps.json
+E:\DotNet\Monocept_Classes\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.dll
+E:\DotNet\Monocept_Classes\CollectionsDemo\bin\Debug\net8.0\CollectionsDemo.pdb
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.dll
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\refint\CollectionsDemo.dll
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.pdb
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\CollectionsDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\CollectionsDemo\obj\Debug\net8.0\ref\CollectionsDemo.dll

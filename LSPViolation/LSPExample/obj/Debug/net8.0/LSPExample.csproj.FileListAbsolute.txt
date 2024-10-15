@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\bin\Debug\net8.0\LSPExample.exe
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\bin\Debug\net8.0\LSPExample.deps.json
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\bin\Debug\net8.0\LSPExample.runtimeconfig.json
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\bin\Debug\net8.0\LSPExample.dll
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\bin\Debug\net8.0\LSPExample.pdb
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.sourcelink.json
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.dll
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\refint\LSPExample.dll
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.pdb
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\LSPExample.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\LSPViolation\LSPExample\obj\Debug\net8.0\ref\LSPExample.dll

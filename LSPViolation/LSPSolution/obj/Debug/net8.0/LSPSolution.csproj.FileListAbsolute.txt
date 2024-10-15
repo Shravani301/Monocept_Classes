@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\bin\Debug\net8.0\LSPSolution.exe
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\bin\Debug\net8.0\LSPSolution.deps.json
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\bin\Debug\net8.0\LSPSolution.runtimeconfig.json
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\bin\Debug\net8.0\LSPSolution.dll
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\bin\Debug\net8.0\LSPSolution.pdb
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.sourcelink.json
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.dll
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\refint\LSPSolution.dll
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.pdb
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\LSPSolution.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\LSPViolation\LSPSolution\obj\Debug\net8.0\ref\LSPSolution.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPViolationApp", "SRPViolationApp\SRPViolationApp.csproj", "{0397D5A2-A612-4AD2-9AFD-D78A233BF2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPSolutionApp", "SRPSolutionApp\SRPSolutionApp.csproj", "{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0397D5A2-A612-4AD2-9AFD-D78A233BF2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0397D5A2-A612-4AD2-9AFD-D78A233BF2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0397D5A2-A612-4AD2-9AFD-D78A233BF2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0397D5A2-A612-4AD2-9AFD-D78A233BF2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F2CA84-4B62-422A-A914-72F142806ADD}
+	EndGlobalSection
+EndGlobal

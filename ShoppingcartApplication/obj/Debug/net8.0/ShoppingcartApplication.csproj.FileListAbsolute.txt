@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.sourcelink.json
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\bin\Debug\net8.0\ShoppingcartApplication.exe
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\bin\Debug\net8.0\ShoppingcartApplication.deps.json
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\bin\Debug\net8.0\ShoppingcartApplication.runtimeconfig.json
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\bin\Debug\net8.0\ShoppingcartApplication.dll
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\bin\Debug\net8.0\ShoppingcartApplication.pdb
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.dll
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\refint\ShoppingcartApplication.dll
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.pdb
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ShoppingcartApplication.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\ShoppingcartApplication\obj\Debug\net8.0\ref\ShoppingcartApplication.dll

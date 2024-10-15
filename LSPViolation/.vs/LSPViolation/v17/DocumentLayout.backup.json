@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\helpers\\inonflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\helpers\\inonflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\helpers\\ibird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\helpers\\ibird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\helpers\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\helpers\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\models\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\models\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\models\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\models\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspsolution\\models\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC3116C-D0E2-4AF3-8B72-F06CD570D888}|LSPSolution\\LSPSolution.csproj|solutionrelative:lspsolution\\models\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|solutionrelative:lspexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspexample\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|solutionrelative:lspexample\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspexample\\models\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|solutionrelative:lspexample\\models\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspexample\\models\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|solutionrelative:lspexample\\models\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspexample\\models\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|solutionrelative:lspexample\\models\\crow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|e:\\dotnet\\monocept_classes\\lspviolation\\lspexample\\lspexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{686CEDC2-1178-48B8-A544-D3E266CD862C}|LSPExample\\LSPExample.csproj|solutionrelative:lspexample\\lspexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INonFlyable.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Helpers\\INonFlyable.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Helpers\\INonFlyable.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Helpers\\INonFlyable.cs",
+              "RelativeToolTip": "LSPSolution\\Helpers\\INonFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:40:19.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFlyable.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Helpers\\IFlyable.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Helpers\\IFlyable.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Helpers\\IFlyable.cs",
+              "RelativeToolTip": "LSPSolution\\Helpers\\IFlyable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:39:55.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ostrich.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Models\\Ostrich.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Models\\Ostrich.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Models\\Ostrich.cs",
+              "RelativeToolTip": "LSPSolution\\Models\\Ostrich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:38:58.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crow.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Models\\Crow.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Models\\Crow.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Models\\Crow.cs",
+              "RelativeToolTip": "LSPSolution\\Models\\Crow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:38:50.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Models\\Sparrow.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Models\\Sparrow.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Models\\Sparrow.cs",
+              "RelativeToolTip": "LSPSolution\\Models\\Sparrow.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:38:43.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBird.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Helpers\\IBird.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Helpers\\IBird.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Helpers\\IBird.cs",
+              "RelativeToolTip": "LSPSolution\\Helpers\\IBird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:38:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Program.cs",
+              "RelativeDocumentMoniker": "LSPExample\\Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Program.cs",
+              "RelativeToolTip": "LSPExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:32:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ostrich.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Ostrich.cs",
+              "RelativeDocumentMoniker": "LSPExample\\Models\\Ostrich.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Ostrich.cs",
+              "RelativeToolTip": "LSPExample\\Models\\Ostrich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:28:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "LSPExample\\Models\\Bird.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Bird.cs",
+              "RelativeToolTip": "LSPExample\\Models\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:26:19.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Program.cs",
+              "RelativeDocumentMoniker": "LSPSolution\\Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPSolution\\Program.cs",
+              "RelativeToolTip": "LSPSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:25:08.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Sparrow.cs",
+              "RelativeDocumentMoniker": "LSPExample\\Models\\Sparrow.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Sparrow.cs",
+              "RelativeToolTip": "LSPExample\\Models\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:27:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Crow.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Crow.cs",
+              "RelativeDocumentMoniker": "LSPExample\\Models\\Crow.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\Models\\Crow.cs",
+              "RelativeToolTip": "LSPExample\\Models\\Crow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:27:54.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LSPExample",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\LSPExample.csproj",
+              "RelativeDocumentMoniker": "LSPExample\\LSPExample.csproj",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\LSPViolation\\LSPExample\\LSPExample.csproj",
+              "RelativeToolTip": "LSPExample\\LSPExample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-15T11:24:42.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

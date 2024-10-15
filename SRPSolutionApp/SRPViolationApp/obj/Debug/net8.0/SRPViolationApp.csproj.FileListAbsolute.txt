@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\bin\Debug\net8.0\SRPViolationApp.exe
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\bin\Debug\net8.0\SRPViolationApp.deps.json
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\bin\Debug\net8.0\SRPViolationApp.runtimeconfig.json
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\bin\Debug\net8.0\SRPViolationApp.dll
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\bin\Debug\net8.0\SRPViolationApp.pdb
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.sourcelink.json
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.dll
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\refint\SRPViolationApp.dll
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.pdb
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\SRPViolationApp.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\SRPSolutionApp\SRPViolationApp\obj\Debug\net8.0\ref\SRPViolationApp.dll

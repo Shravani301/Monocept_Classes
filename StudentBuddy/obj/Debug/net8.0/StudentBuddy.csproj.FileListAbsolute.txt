@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\StudentBuddy\bin\Debug\net8.0\StudentBuddy.exe
+E:\DotNet\Monocept_Classes\StudentBuddy\bin\Debug\net8.0\StudentBuddy.deps.json
+E:\DotNet\Monocept_Classes\StudentBuddy\bin\Debug\net8.0\StudentBuddy.runtimeconfig.json
+E:\DotNet\Monocept_Classes\StudentBuddy\bin\Debug\net8.0\StudentBuddy.dll
+E:\DotNet\Monocept_Classes\StudentBuddy\bin\Debug\net8.0\StudentBuddy.pdb
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.sourcelink.json
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.dll
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\refint\StudentBuddy.dll
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.pdb
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\StudentBuddy.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\StudentBuddy\obj\Debug\net8.0\ref\StudentBuddy.dll

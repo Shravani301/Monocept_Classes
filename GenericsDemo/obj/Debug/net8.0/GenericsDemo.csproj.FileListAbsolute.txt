@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\GenericsDemo\bin\Debug\net8.0\GenericsDemo.exe
+E:\DotNet\Monocept_Classes\GenericsDemo\bin\Debug\net8.0\GenericsDemo.deps.json
+E:\DotNet\Monocept_Classes\GenericsDemo\bin\Debug\net8.0\GenericsDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\GenericsDemo\bin\Debug\net8.0\GenericsDemo.dll
+E:\DotNet\Monocept_Classes\GenericsDemo\bin\Debug\net8.0\GenericsDemo.pdb
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.dll
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\refint\GenericsDemo.dll
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.pdb
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\GenericsDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\GenericsDemo\obj\Debug\net8.0\ref\GenericsDemo.dll

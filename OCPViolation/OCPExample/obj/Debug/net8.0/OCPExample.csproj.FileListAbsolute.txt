@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\bin\Debug\net8.0\OCPExample.exe
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\bin\Debug\net8.0\OCPExample.deps.json
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\bin\Debug\net8.0\OCPExample.runtimeconfig.json
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\bin\Debug\net8.0\OCPExample.dll
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\bin\Debug\net8.0\OCPExample.pdb
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.sourcelink.json
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.dll
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\refint\OCPExample.dll
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.pdb
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\OCPExample.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\OCPViolation\OCPExample\obj\Debug\net8.0\ref\OCPExample.dll

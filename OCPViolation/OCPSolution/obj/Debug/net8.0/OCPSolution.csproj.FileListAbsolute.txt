@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\bin\Debug\net8.0\OCPSolution.exe
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\bin\Debug\net8.0\OCPSolution.deps.json
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\bin\Debug\net8.0\OCPSolution.runtimeconfig.json
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\bin\Debug\net8.0\OCPSolution.dll
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\bin\Debug\net8.0\OCPSolution.pdb
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.sourcelink.json
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.dll
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\refint\OCPSolution.dll
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.pdb
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\OCPSolution.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\OCPViolation\OCPSolution\obj\Debug\net8.0\ref\OCPSolution.dll
