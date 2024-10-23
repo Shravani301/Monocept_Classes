@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.exe
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.deps.json
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.dll
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\bin\Debug\net8.0\DecoratorPatternDemo.pdb
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.dll
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\refint\DecoratorPatternDemo.dll
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.pdb
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\DecoratorPatternDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DecoratorPatternDemo\obj\Debug\net8.0\ref\DecoratorPatternDemo.dll

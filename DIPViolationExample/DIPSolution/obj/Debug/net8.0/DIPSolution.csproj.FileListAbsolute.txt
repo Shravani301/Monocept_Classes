@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\bin\Debug\net8.0\DIPSolution.exe
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\bin\Debug\net8.0\DIPSolution.deps.json
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\bin\Debug\net8.0\DIPSolution.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\bin\Debug\net8.0\DIPSolution.dll
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\bin\Debug\net8.0\DIPSolution.pdb
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.sourcelink.json
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.dll
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\refint\DIPSolution.dll
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.pdb
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\DIPSolution.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPSolution\obj\Debug\net8.0\ref\DIPSolution.dll

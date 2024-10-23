@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.exe
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.deps.json
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.runtimeconfig.json
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.dll
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\bin\Debug\net8.0\SimpleFactoryApp.pdb
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.sourcelink.json
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.dll
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\refint\SimpleFactoryApp.dll
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.pdb
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\SimpleFactoryApp.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\SimpleFactoryApp\obj\Debug\net8.0\ref\SimpleFactoryApp.dll

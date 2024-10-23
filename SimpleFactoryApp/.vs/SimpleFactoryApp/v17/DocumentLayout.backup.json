@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|e:\\dotnet\\monocept_classes\\simplefactoryapp\\models\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|solutionrelative:models\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|e:\\dotnet\\monocept_classes\\simplefactoryapp\\models\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|solutionrelative:models\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|e:\\dotnet\\monocept_classes\\simplefactoryapp\\models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|solutionrelative:models\\tesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|e:\\dotnet\\monocept_classes\\simplefactoryapp\\models\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|solutionrelative:models\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|e:\\dotnet\\monocept_classes\\simplefactoryapp\\models\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|solutionrelative:models\\cartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|e:\\dotnet\\monocept_classes\\simplefactoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D92B69-E798-4C06-B56B-AE9F7161F41D}|SimpleFactoryApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tesla.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\Tesla.cs",
+              "RelativeDocumentMoniker": "Models\\Tesla.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\Tesla.cs",
+              "RelativeToolTip": "Models\\Tesla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:56:00.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\Bmw.cs",
+              "RelativeDocumentMoniker": "Models\\Bmw.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\Bmw.cs",
+              "RelativeToolTip": "Models\\Bmw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:55:51.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\CarFactory.cs",
+              "RelativeDocumentMoniker": "Models\\CarFactory.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\CarFactory.cs",
+              "RelativeToolTip": "Models\\CarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:50:50.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarType.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\CarType.cs",
+              "RelativeDocumentMoniker": "Models\\CarType.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\CarType.cs",
+              "RelativeToolTip": "Models\\CarType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:50:13.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\ICar.cs",
+              "RelativeDocumentMoniker": "Models\\ICar.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Models\\ICar.cs",
+              "RelativeToolTip": "Models\\ICar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:48:47.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SimpleFactoryApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:48:09.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

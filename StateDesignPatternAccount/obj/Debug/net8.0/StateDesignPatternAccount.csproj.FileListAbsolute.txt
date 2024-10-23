@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\bin\Debug\net8.0\StateDesignPatternAccount.exe
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\bin\Debug\net8.0\StateDesignPatternAccount.deps.json
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\bin\Debug\net8.0\StateDesignPatternAccount.runtimeconfig.json
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\bin\Debug\net8.0\StateDesignPatternAccount.dll
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\bin\Debug\net8.0\StateDesignPatternAccount.pdb
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.sourcelink.json
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.dll
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\refint\StateDesignPatternAccount.dll
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.pdb
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\StateDesignPatternAccount.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\StateDesignPatternAccount\obj\Debug\net8.0\ref\StateDesignPatternAccount.dll

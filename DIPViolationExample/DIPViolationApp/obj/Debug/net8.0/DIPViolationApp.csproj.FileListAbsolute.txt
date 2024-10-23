@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\bin\Debug\net8.0\DIPViolationApp.exe
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\bin\Debug\net8.0\DIPViolationApp.deps.json
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\bin\Debug\net8.0\DIPViolationApp.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\bin\Debug\net8.0\DIPViolationApp.dll
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\bin\Debug\net8.0\DIPViolationApp.pdb
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.sourcelink.json
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.dll
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\refint\DIPViolationApp.dll
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.pdb
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\DIPViolationApp.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DIPViolationExample\DIPViolationApp\obj\Debug\net8.0\ref\DIPViolationApp.dll

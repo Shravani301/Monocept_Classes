@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\StrategyPattern\bin\Debug\net8.0\StrategyPattern.exe
+E:\DotNet\Monocept_Classes\StrategyPattern\bin\Debug\net8.0\StrategyPattern.deps.json
+E:\DotNet\Monocept_Classes\StrategyPattern\bin\Debug\net8.0\StrategyPattern.runtimeconfig.json
+E:\DotNet\Monocept_Classes\StrategyPattern\bin\Debug\net8.0\StrategyPattern.dll
+E:\DotNet\Monocept_Classes\StrategyPattern\bin\Debug\net8.0\StrategyPattern.pdb
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.sourcelink.json
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.dll
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\refint\StrategyPattern.dll
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.pdb
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\StrategyPattern.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\StrategyPattern\obj\Debug\net8.0\ref\StrategyPattern.dll

@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\SingletonApp\bin\Debug\net8.0\SingletonApp.exe
+E:\DotNet\Monocept_Classes\SingletonApp\bin\Debug\net8.0\SingletonApp.deps.json
+E:\DotNet\Monocept_Classes\SingletonApp\bin\Debug\net8.0\SingletonApp.runtimeconfig.json
+E:\DotNet\Monocept_Classes\SingletonApp\bin\Debug\net8.0\SingletonApp.dll
+E:\DotNet\Monocept_Classes\SingletonApp\bin\Debug\net8.0\SingletonApp.pdb
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.sourcelink.json
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.dll
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\refint\SingletonApp.dll
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.pdb
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\SingletonApp.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\SingletonApp\obj\Debug\net8.0\ref\SingletonApp.dll

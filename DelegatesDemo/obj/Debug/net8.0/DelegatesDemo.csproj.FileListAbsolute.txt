@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.exe
+E:\DotNet\Monocept_Classes\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.deps.json
+E:\DotNet\Monocept_Classes\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.dll
+E:\DotNet\Monocept_Classes\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.pdb
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.dll
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\refint\DelegatesDemo.dll
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.pdb
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DelegatesDemo\obj\Debug\net8.0\ref\DelegatesDemo.dll

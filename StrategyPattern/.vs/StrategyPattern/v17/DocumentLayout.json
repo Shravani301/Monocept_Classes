@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|e:\\dotnet\\monocept_classes\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|e:\\dotnet\\monocept_classes\\strategypattern\\mall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|solutionrelative:mall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|e:\\dotnet\\monocept_classes\\strategypattern\\paytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|solutionrelative:paytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|e:\\dotnet\\monocept_classes\\strategypattern\\gpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|solutionrelative:gpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|e:\\dotnet\\monocept_classes\\strategypattern\\cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|solutionrelative:cc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|e:\\dotnet\\monocept_classes\\strategypattern\\istrategypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73E5DA39-E045-49F3-B518-EE3843A49FCE}|StrategyPattern.csproj|solutionrelative:istrategypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mall.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\Mall.cs",
+              "RelativeDocumentMoniker": "Mall.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\Mall.cs",
+              "RelativeToolTip": "Mall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:31:06.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CC.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\CC.cs",
+              "RelativeDocumentMoniker": "CC.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\CC.cs",
+              "RelativeToolTip": "CC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:30:57.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paytm.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\Paytm.cs",
+              "RelativeDocumentMoniker": "Paytm.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\Paytm.cs",
+              "RelativeToolTip": "Paytm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:30:46.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPay.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\GPay.cs",
+              "RelativeDocumentMoniker": "GPay.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\GPay.cs",
+              "RelativeToolTip": "GPay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:30:36.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStrategyPayment.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\IStrategyPayment.cs",
+              "RelativeDocumentMoniker": "IStrategyPayment.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\IStrategyPayment.cs",
+              "RelativeToolTip": "IStrategyPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:29:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:29:36.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

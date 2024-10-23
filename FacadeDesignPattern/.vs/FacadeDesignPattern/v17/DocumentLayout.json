@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\hotelreception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:hotelreception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\italianmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:italianmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\indianmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:indianmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\chinesemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:chinesemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\italianhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:italianhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\chinesehotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:chinesehotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\indianhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:indianhotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\ihotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:ihotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|e:\\dotnet\\monocept_classes\\facadedesignpattern\\imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CD5312A-40DF-476B-B4D7-692630E5C5E3}|FacadeDesignPattern.csproj|solutionrelative:imenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChineseHotel.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ChineseHotel.cs",
+              "RelativeDocumentMoniker": "ChineseHotel.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ChineseHotel.cs",
+              "RelativeToolTip": "ChineseHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:16:37.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChineseMenu.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ChineseMenu.cs",
+              "RelativeDocumentMoniker": "ChineseMenu.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ChineseMenu.cs",
+              "RelativeToolTip": "ChineseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:16:17.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItalianMenu.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ItalianMenu.cs",
+              "RelativeDocumentMoniker": "ItalianMenu.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ItalianMenu.cs",
+              "RelativeToolTip": "ItalianMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:07:07.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndianMenu.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IndianMenu.cs",
+              "RelativeDocumentMoniker": "IndianMenu.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IndianMenu.cs",
+              "RelativeToolTip": "IndianMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:06:56.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelReception.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\HotelReception.cs",
+              "RelativeDocumentMoniker": "HotelReception.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\HotelReception.cs",
+              "RelativeToolTip": "HotelReception.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:06:44.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItalianHotel.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ItalianHotel.cs",
+              "RelativeDocumentMoniker": "ItalianHotel.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\ItalianHotel.cs",
+              "RelativeToolTip": "ItalianHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:06:23.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IndianHotel.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IndianHotel.cs",
+              "RelativeDocumentMoniker": "IndianHotel.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IndianHotel.cs",
+              "RelativeToolTip": "IndianHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:06:11.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:03:55.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMenu.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IMenu.cs",
+              "RelativeDocumentMoniker": "IMenu.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IMenu.cs",
+              "RelativeToolTip": "IMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:05:55.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IHotel.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IHotel.cs",
+              "RelativeDocumentMoniker": "IHotel.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\FacadeDesignPattern\\IHotel.cs",
+              "RelativeToolTip": "IHotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:05:41.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

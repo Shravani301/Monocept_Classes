@@ -1,0 +1,12 @@
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\bin\Debug\net8.0\ObserverAccountLibrary.deps.json
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\bin\Debug\net8.0\ObserverAccountLibrary.dll
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\bin\Debug\net8.0\ObserverAccountLibrary.pdb
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.sourcelink.json
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.dll
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\refint\ObserverAccountLibrary.dll
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ObserverAccountLibrary.pdb
+E:\DotNet\Monocept_Classes\ObserverPattern\ObserverAccountLibrary\obj\Debug\net8.0\ref\ObserverAccountLibrary.dll

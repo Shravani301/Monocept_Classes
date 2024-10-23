@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\FactoryDemo\bin\Debug\net8.0\FactoryDemo.exe
+E:\DotNet\Monocept_Classes\FactoryDemo\bin\Debug\net8.0\FactoryDemo.deps.json
+E:\DotNet\Monocept_Classes\FactoryDemo\bin\Debug\net8.0\FactoryDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\FactoryDemo\bin\Debug\net8.0\FactoryDemo.dll
+E:\DotNet\Monocept_Classes\FactoryDemo\bin\Debug\net8.0\FactoryDemo.pdb
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.dll
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\refint\FactoryDemo.dll
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.pdb
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\FactoryDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\FactoryDemo\obj\Debug\net8.0\ref\FactoryDemo.dll

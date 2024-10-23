@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.exe
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.deps.json
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.runtimeconfig.json
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.dll
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\bin\Debug\net8.0\AdapterDesignPattern.pdb
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.sourcelink.json
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.dll
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\refint\AdapterDesignPattern.dll
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.pdb
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\AdapterDesignPattern.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\AdapterDesignPattern\obj\Debug\net8.0\ref\AdapterDesignPattern.dll

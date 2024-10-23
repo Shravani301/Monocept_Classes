@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\bin\Debug\net8.0\SingletonFactoryDemo.exe
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\bin\Debug\net8.0\SingletonFactoryDemo.deps.json
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\bin\Debug\net8.0\SingletonFactoryDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\bin\Debug\net8.0\SingletonFactoryDemo.dll
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\bin\Debug\net8.0\SingletonFactoryDemo.pdb
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.dll
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\refint\SingletonFactoryDemo.dll
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.pdb
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\SingletonFactoryDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\SingletonFactoryDemo\obj\Debug\net8.0\ref\SingletonFactoryDemo.dll

@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.exe
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.deps.json
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.runtimeconfig.json
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.dll
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\bin\Debug\net8.0\FacadeDesignPattern.pdb
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.sourcelink.json
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.dll
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\refint\FacadeDesignPattern.dll
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.pdb
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\FacadeDesignPattern.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\FacadeDesignPattern\obj\Debug\net8.0\ref\FacadeDesignPattern.dll

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\gasolinecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:gasolinecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:icarfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:electriccar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\teslagasoline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:teslagasoline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\teslaelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:teslaelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\bmwgasoline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:bmwgasoline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\bmwelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:bmwelectric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\itesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:itesla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|e:\\dotnet\\monocept_classes\\abstractfactorydemo\\ibmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35BA32E4-0B2C-47E7-8431-04EEC2E0AE8D}|AbstractFactoryDemo.csproj|solutionrelative:ibmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeslaGasoline.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\TeslaGasoline.cs",
+              "RelativeDocumentMoniker": "TeslaGasoline.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\TeslaGasoline.cs",
+              "RelativeToolTip": "TeslaGasoline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:07:49.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BmwElectric.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\BmwElectric.cs",
+              "RelativeDocumentMoniker": "BmwElectric.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\BmwElectric.cs",
+              "RelativeToolTip": "BmwElectric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:04:16.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GasolineCar.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\GasolineCar.cs",
+              "RelativeDocumentMoniker": "GasolineCar.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\GasolineCar.cs",
+              "RelativeToolTip": "GasolineCar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:00:04.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Electriccar.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\Electriccar.cs",
+              "RelativeDocumentMoniker": "Electriccar.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\Electriccar.cs",
+              "RelativeToolTip": "Electriccar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:59:45.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICarFactory.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\ICarFactory.cs",
+              "RelativeDocumentMoniker": "ICarFactory.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\ICarFactory.cs",
+              "RelativeToolTip": "ICarFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:56:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeslaElectric.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\TeslaElectric.cs",
+              "RelativeDocumentMoniker": "TeslaElectric.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\TeslaElectric.cs",
+              "RelativeToolTip": "TeslaElectric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:55:51.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BmwGasoline.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\BmwGasoline.cs",
+              "RelativeDocumentMoniker": "BmwGasoline.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\BmwGasoline.cs",
+              "RelativeToolTip": "BmwGasoline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:55:39.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:55:07.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITesla.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\ITesla.cs",
+              "RelativeDocumentMoniker": "ITesla.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\ITesla.cs",
+              "RelativeToolTip": "ITesla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:36:25.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBMW.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\IBMW.cs",
+              "RelativeDocumentMoniker": "IBMW.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AbstractFactoryDemo\\IBMW.cs",
+              "RelativeToolTip": "IBMW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:55:28.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
