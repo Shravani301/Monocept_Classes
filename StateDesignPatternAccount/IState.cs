@@ -9,5 +9,6 @@ namespace StateDesignPatternAccount
     internal interface IState
     {
         void GetBenefits();
+        bool IsInRange(double balance);
     }
 }

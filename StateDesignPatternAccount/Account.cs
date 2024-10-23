@@ -10,13 +10,13 @@ namespace StateDesignPatternAccount
     internal class Account
     {
         private IState _currentState;
-        private readonly State _stateTransitionTable;
+        private readonly StateTransitionTable _stateTransitionTable;
         public double Balance { get; private set; }
 
         public Account(double balance)
         {
             Balance = balance;
-            _stateTransitionTable = new State();
+            _stateTransitionTable = new StateTransitionTable();
             Evaluate(); 
         }
 

@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\silverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:silverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\statetransitiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:statetransitiontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\platinumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:platinumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\goldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:goldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\silverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:silverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\goldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:goldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|e:\\dotnet\\monocept_classes\\statedesignpatternaccount\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9863936A-5168-4B24-9542-E18BF8133847}|StateDesignPatternAccount.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,90 +47,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "State.cs",
-              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\State.cs",
-              "RelativeDocumentMoniker": "State.cs",
-              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\State.cs",
-              "RelativeToolTip": "State.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Title": "StateTransitionTable.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\StateTransitionTable.cs",
+              "RelativeDocumentMoniker": "StateTransitionTable.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\StateTransitionTable.cs",
+              "RelativeToolTip": "StateTransitionTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:35:19.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "GoldState.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\GoldState.cs",
               "RelativeDocumentMoniker": "GoldState.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\GoldState.cs",
               "RelativeToolTip": "GoldState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:05:47.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PlatinumState.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\PlatinumState.cs",
               "RelativeDocumentMoniker": "PlatinumState.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\PlatinumState.cs",
               "RelativeToolTip": "PlatinumState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:05:31.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SilverState.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\SilverState.cs",
               "RelativeDocumentMoniker": "SilverState.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\SilverState.cs",
               "RelativeToolTip": "SilverState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:05:17.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IState.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\IState.cs",
               "RelativeDocumentMoniker": "IState.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\IState.cs",
               "RelativeToolTip": "IState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:59:27.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Account.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\Account.cs",
               "RelativeDocumentMoniker": "Account.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\Account.cs",
               "RelativeToolTip": "Account.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:58:39.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\StateDesignPatternAccount\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T09:58:07.843Z",
               "EditorCaption": ""

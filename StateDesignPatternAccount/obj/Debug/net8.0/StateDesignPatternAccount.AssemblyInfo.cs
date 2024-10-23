@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StateDesignPatternAccount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42b15cf2edcb4e5481880f344a373f107cb7a6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37c82f9982a62ef8d7f916ee09252a82ae552ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("StateDesignPatternAccount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StateDesignPatternAccount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
