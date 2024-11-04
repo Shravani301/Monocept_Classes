@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\bin\Debug\net8.0\DelegatesDemoWithCallbackFunction.exe
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\bin\Debug\net8.0\DelegatesDemoWithCallbackFunction.deps.json
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\bin\Debug\net8.0\DelegatesDemoWithCallbackFunction.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\bin\Debug\net8.0\DelegatesDemoWithCallbackFunction.dll
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\bin\Debug\net8.0\DelegatesDemoWithCallbackFunction.pdb
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.sourcelink.json
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.dll
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\refint\DelegatesDemoWithCallbackFunction.dll
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.pdb
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\DelegatesDemoWithCallbackFunction.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DelegatesDemoWithCallbackFunction\obj\Debug\net8.0\ref\DelegatesDemoWithCallbackFunction.dll

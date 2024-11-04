@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:data\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\models\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:models\\workstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\companyefdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:companyefdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\exceptions\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:exceptions\\departmentnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|e:\\dotnet\\monocept_classes\\companyefdemo\\migrations\\20241030090915_emptab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4588284F-A3BB-4AE5-B94B-D61A78690E78}|CompanyEFDemo.csproj|solutionrelative:migrations\\20241030090915_emptab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/CompanyDb/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/CompanyDb/True/SqlTable/dbo.Departments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/CompanyDb/True/SqlTable/dbo.Workstations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:46:38.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workstation.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Models\\Workstation.cs",
+              "RelativeDocumentMoniker": "Models\\Workstation.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Models\\Workstation.cs",
+              "RelativeToolTip": "Models\\Workstation.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:49:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:49:17.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\DepartmentRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:12:46.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:47:09.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Data\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "Data\\CompanyContext.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Data\\CompanyContext.cs",
+              "RelativeToolTip": "Data\\CompanyContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:48:08.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-30T08:57:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompanyEFDemo",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\CompanyEFDemo.csproj",
+              "RelativeDocumentMoniker": "CompanyEFDemo.csproj",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\CompanyEFDemo.csproj",
+              "RelativeToolTip": "CompanyEFDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T10:43:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentNotFoundException.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Exceptions\\DepartmentNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\DepartmentNotFoundException.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Exceptions\\DepartmentNotFoundException.cs",
+              "RelativeToolTip": "Exceptions\\DepartmentNotFoundException.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:28:05.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241030090915_EmpTab.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Migrations\\20241030090915_EmpTab.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241030090915_EmpTab.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\CompanyEFDemo\\Migrations\\20241030090915_EmpTab.cs",
+              "RelativeToolTip": "Migrations\\20241030090915_EmpTab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:09:16.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/CompanyDb/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T09:10:17.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Departments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/CompanyDb/True/SqlTable/dbo.Departments.sql",
+              "ToolTip": "dbo.Departments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T09:26:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.Workstations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/CompanyDb/True/SqlTable/dbo.Workstations.sql",
+              "ToolTip": "dbo.Workstations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T09:29:31.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

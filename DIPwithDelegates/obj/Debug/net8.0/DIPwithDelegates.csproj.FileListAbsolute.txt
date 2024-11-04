@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DIPwithDelegates\bin\Debug\net8.0\DIPwithDelegates.exe
+E:\DotNet\Monocept_Classes\DIPwithDelegates\bin\Debug\net8.0\DIPwithDelegates.deps.json
+E:\DotNet\Monocept_Classes\DIPwithDelegates\bin\Debug\net8.0\DIPwithDelegates.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DIPwithDelegates\bin\Debug\net8.0\DIPwithDelegates.dll
+E:\DotNet\Monocept_Classes\DIPwithDelegates\bin\Debug\net8.0\DIPwithDelegates.pdb
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.sourcelink.json
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.dll
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\refint\DIPwithDelegates.dll
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.pdb
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\DIPwithDelegates.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DIPwithDelegates\obj\Debug\net8.0\ref\DIPwithDelegates.dll

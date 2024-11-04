@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DIPSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c42b15cf2edcb4e5481880f344a373f107cb7a6b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46c93a3c26620b5d4268875f0bc32f58ed1c7885")]
 [assembly: System.Reflection.AssemblyProductAttribute("DIPSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DIPSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

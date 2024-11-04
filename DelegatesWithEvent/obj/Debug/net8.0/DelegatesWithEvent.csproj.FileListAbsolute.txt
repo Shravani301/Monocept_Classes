@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\bin\Debug\net8.0\DelegatesWithEvent.exe
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\bin\Debug\net8.0\DelegatesWithEvent.deps.json
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\bin\Debug\net8.0\DelegatesWithEvent.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\bin\Debug\net8.0\DelegatesWithEvent.dll
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\bin\Debug\net8.0\DelegatesWithEvent.pdb
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.sourcelink.json
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.dll
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\refint\DelegatesWithEvent.dll
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.pdb
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\DelegatesWithEvent.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DelegatesWithEvent\obj\Debug\net8.0\ref\DelegatesWithEvent.dll

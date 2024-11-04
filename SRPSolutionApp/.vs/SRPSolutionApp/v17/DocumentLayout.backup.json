@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}|SRPSolutionApp\\SRPSolutionApp.csproj|solutionrelative:srpsolutionapp\\presentation\\invoiceprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}|SRPSolutionApp\\SRPSolutionApp.csproj|e:\\dotnet\\monocept_classes\\srpsolutionapp\\srpsolutionapp\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}|SRPSolutionApp\\SRPSolutionApp.csproj|solutionrelative:srpsolutionapp\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}|SRPSolutionApp\\SRPSolutionApp.csproj|e:\\dotnet\\monocept_classes\\srpsolutionapp\\srpsolutionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F03920B-C33C-4CA2-960F-C64BFBEF8B83}|SRPSolutionApp\\SRPSolutionApp.csproj|solutionrelative:srpsolutionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SRPSolutionApp\\SRPSolutionApp\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "SRPSolutionApp\\Models\\Invoice.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\SRPSolutionApp\\SRPSolutionApp\\Models\\Invoice.cs",
+              "RelativeToolTip": "SRPSolutionApp\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:20:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\SRPSolutionApp\\SRPSolutionApp\\Program.cs",
               "RelativeDocumentMoniker": "SRPSolutionApp\\Program.cs",
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "SRPSolutionApp\\Presentation\\InvoicePrint.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\SRPSolutionApp\\SRPSolutionApp\\Presentation\\InvoicePrint.cs",
               "RelativeToolTip": "SRPSolutionApp\\Presentation\\InvoicePrint.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA2wD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T11:06:50.925Z",
               "EditorCaption": ""

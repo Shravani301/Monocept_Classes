@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\MathDelegate\bin\Debug\net8.0\MathDelegate.exe
+E:\DotNet\Monocept_Classes\MathDelegate\bin\Debug\net8.0\MathDelegate.deps.json
+E:\DotNet\Monocept_Classes\MathDelegate\bin\Debug\net8.0\MathDelegate.runtimeconfig.json
+E:\DotNet\Monocept_Classes\MathDelegate\bin\Debug\net8.0\MathDelegate.dll
+E:\DotNet\Monocept_Classes\MathDelegate\bin\Debug\net8.0\MathDelegate.pdb
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.sourcelink.json
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.dll
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\refint\MathDelegate.dll
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.pdb
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\MathDelegate.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\MathDelegate\obj\Debug\net8.0\ref\MathDelegate.dll

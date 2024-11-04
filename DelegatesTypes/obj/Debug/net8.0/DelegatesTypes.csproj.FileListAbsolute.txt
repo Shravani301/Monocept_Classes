@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\DelegatesTypes\bin\Debug\net8.0\DelegatesTypes.exe
+E:\DotNet\Monocept_Classes\DelegatesTypes\bin\Debug\net8.0\DelegatesTypes.deps.json
+E:\DotNet\Monocept_Classes\DelegatesTypes\bin\Debug\net8.0\DelegatesTypes.runtimeconfig.json
+E:\DotNet\Monocept_Classes\DelegatesTypes\bin\Debug\net8.0\DelegatesTypes.dll
+E:\DotNet\Monocept_Classes\DelegatesTypes\bin\Debug\net8.0\DelegatesTypes.pdb
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.sourcelink.json
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.dll
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\refint\DelegatesTypes.dll
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.pdb
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\DelegatesTypes.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\DelegatesTypes\obj\Debug\net8.0\ref\DelegatesTypes.dll

@@ -6,6 +6,6 @@
     "\\AccountLibrary\\Exceptions",
     "\\AccountLibrary\\Models"
   ],
-  "SelectedNode": "\\AccountLibrary\\Controller\\AccountManager.cs",
+  "SelectedNode": "\\AccountLibrary\\Models\\Account.cs",
   "PreviewInSolutionExplorer": false
 }
