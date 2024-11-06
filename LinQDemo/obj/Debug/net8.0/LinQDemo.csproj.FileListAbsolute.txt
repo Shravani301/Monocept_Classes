@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\LinQDemo\bin\Debug\net8.0\LinQDemo.exe
+E:\DotNet\Monocept_Classes\LinQDemo\bin\Debug\net8.0\LinQDemo.deps.json
+E:\DotNet\Monocept_Classes\LinQDemo\bin\Debug\net8.0\LinQDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\LinQDemo\bin\Debug\net8.0\LinQDemo.dll
+E:\DotNet\Monocept_Classes\LinQDemo\bin\Debug\net8.0\LinQDemo.pdb
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.dll
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\refint\LinQDemo.dll
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.pdb
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\LinQDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\LinQDemo\obj\Debug\net8.0\ref\LinQDemo.dll

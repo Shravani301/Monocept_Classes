@@ -57,12 +57,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -81,8 +77,7 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:30:01.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T10:30:01.42Z"
             },
             {
               "$type": "Document",
@@ -94,8 +89,7 @@
               "RelativeToolTip": "Models\\Workstation.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:25:56.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:25:56.332Z"
             },
             {
               "$type": "Document",
@@ -107,8 +101,7 @@
               "RelativeToolTip": "Migrations\\20241028115640_empTab.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:56:41.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:56:41.109Z"
             },
             {
               "$type": "Document",
@@ -120,8 +113,7 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-28T11:23:57.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:23:57.385Z"
             },
             {
               "$type": "Document",
@@ -133,8 +125,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:23:58.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T10:23:58.691Z"
             },
             {
               "$type": "Document",
@@ -144,7 +135,7 @@
               "RelativeDocumentMoniker": "Data\\CompanyContext.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\EfCodeFirst\\Data\\CompanyContext.cs",
               "RelativeToolTip": "Data\\CompanyContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:31:49.544Z",
               "EditorCaption": ""
@@ -201,8 +192,7 @@
               "RelativeToolTip": "EfCodeFirst.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T11:22:26.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T11:22:26.936Z"
             },
             {
               "$type": "Document",
@@ -214,6 +204,14 @@
               "RelativeToolTip": "Migrations\\20241028103639_EmpTab.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:36:39.75Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             }
           ]
         }

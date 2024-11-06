@@ -1,0 +1,15 @@
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\bin\Debug\net8.0\ExtensionMethodsDemo.exe
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\bin\Debug\net8.0\ExtensionMethodsDemo.deps.json
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\bin\Debug\net8.0\ExtensionMethodsDemo.runtimeconfig.json
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\bin\Debug\net8.0\ExtensionMethodsDemo.dll
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\bin\Debug\net8.0\ExtensionMethodsDemo.pdb
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.AssemblyInfoInputs.cache
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.AssemblyInfo.cs
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.csproj.CoreCompileInputs.cache
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.sourcelink.json
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.dll
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\refint\ExtensionMethodsDemo.dll
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.pdb
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ExtensionMethodsDemo.genruntimeconfig.cache
+E:\DotNet\Monocept_Classes\ExtensionMethodsDemo\obj\Debug\net8.0\ref\ExtensionMethodsDemo.dll

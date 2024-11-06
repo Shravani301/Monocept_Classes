@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.CourseStudent.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:repositories\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\manytomanydemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:manytomanydemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:data\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.Courses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094140_studentcoursetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241105094140_studentcoursetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094018_studentcoursetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241105094018_studentcoursetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|e:\\dotnet\\monocept_classes\\manytomanydemo\\migrations\\20241105094238_studentcoursetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BADB6D7-D014-400D-A671-07C21CE8C1C4}|ManyToManyDemo.csproj|solutionrelative:migrations\\20241105094238_studentcoursetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.CourseStudent [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.CourseStudent.sql",
+              "ToolTip": "dbo.CourseStudent [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-06T09:07:50.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:20:40.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowEsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:20:05.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:33:11.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Repositories\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CourseRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Repositories\\CourseRepository.cs",
+              "RelativeToolTip": "Repositories\\CourseRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:20:52.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:29:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:32:27.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBCwBcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:20:17.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Courses.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.Courses.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.Courses.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-05T09:43:25.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Data\\MyContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyContext.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Data\\MyContext.cs",
+              "RelativeToolTip": "Data\\MyContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:33:48.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManyToManyDemo.csproj",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\ManyToManyDemo.csproj",
+              "RelativeDocumentMoniker": "ManyToManyDemo.csproj",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\ManyToManyDemo.csproj",
+              "RelativeToolTip": "ManyToManyDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-05T09:30:17.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241105094238_studentcoursetables.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094238_studentcoursetables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241105094238_studentcoursetables.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094238_studentcoursetables.cs",
+              "RelativeToolTip": "Migrations\\20241105094238_studentcoursetables.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:42:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241105094140_studentcoursetables.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094140_studentcoursetables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241105094140_studentcoursetables.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094140_studentcoursetables.cs",
+              "RelativeToolTip": "Migrations\\20241105094140_studentcoursetables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:41:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241105094018_studentcoursetables.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094018_studentcoursetables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241105094018_studentcoursetables.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Migrations\\20241105094018_studentcoursetables.cs",
+              "RelativeToolTip": "Migrations\\20241105094018_studentcoursetables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:40:19.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-05T09:35:28.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
