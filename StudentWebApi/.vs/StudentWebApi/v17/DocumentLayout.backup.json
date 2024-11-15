@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|e:\\dotnet\\monocept_classes\\studentwebapi\\studentwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|solutionrelative:studentwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|e:\\dotnet\\monocept_classes\\studentwebapi\\studentwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|solutionrelative:studentwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|e:\\dotnet\\monocept_classes\\studentwebapi\\studentwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|solutionrelative:studentwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|e:\\dotnet\\monocept_classes\\studentwebapi\\studentwebapi\\studentwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|solutionrelative:studentwebapi\\studentwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|e:\\dotnet\\monocept_classes\\studentwebapi\\studentwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F052A698-EBFE-4513-9319-D43F3A64FC0D}|StudentWebApi\\StudentWebApi.csproj|solutionrelative:studentwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "StudentWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "StudentWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:47:53.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:43:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentWebApi\\Models\\Student.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentWebApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:42:20.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentWebApi.csproj",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\StudentWebApi.csproj",
+              "RelativeDocumentMoniker": "StudentWebApi\\StudentWebApi.csproj",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\StudentWebApi.csproj",
+              "RelativeToolTip": "StudentWebApi\\StudentWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T10:41:59.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentWebApi\\Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentWebApi\\StudentWebApi\\Program.cs",
+              "RelativeToolTip": "StudentWebApi\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:41:08.966Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@model SessionsDemo.Models.StudentCollegeVM
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>StudentCollegesList</title>
+</head>
+<body>
+    <h4>List of Students</h4>
+    <table border="1">
+        <tr>
+            <th>Student Id</th>
+            <th>Student Name</th>
+            <th>Student Email</th>
+        </tr>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Email</td>
+            </tr>
+        }
+    </table>
+    <hr />
+    <h4>List of Colleges</h4>
+    <table border="1">
+        <tr>
+            <th>College Id</th>
+            <th>College Name</th>
+            <th>Location</th>
+        </tr>
+        @foreach (var college in Model.Colleges)
+        {
+            <tr>
+                <td>@college.Id</td>
+                <td>@college.Name</td>
+                <td>@college.Location</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

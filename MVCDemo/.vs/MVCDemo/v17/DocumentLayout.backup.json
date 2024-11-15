@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|e:\\dotnet\\monocept_classes\\mvcdemo\\mvcdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|E:\\DotNet\\Monocept_Classes\\MVCDemo\\mvcdemo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B46D3A-20B6-418B-8C42-3573DE298482}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:02:29.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:00:44.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T09:44:34.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:51:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T07:47:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Models\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:02:42.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:59:11.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:18:27.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:01:43.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T06:58:13.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCDemo\\MVCDemo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCDemo\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:19:54.583Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

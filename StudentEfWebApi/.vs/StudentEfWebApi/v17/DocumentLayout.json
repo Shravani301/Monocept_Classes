@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\studentefwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\studentefwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/StudentDb/True/SqlTable/dbo.students.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|e:\\dotnet\\monocept_classes\\studentefwebapi\\studentefwebapi\\migrations\\20241112115441_student_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{150CC0D1-203C-4769-8E69-FC19ACA90F00}|StudentEfWebApi\\StudentEfWebApi.csproj|solutionrelative:studentefwebapi\\migrations\\20241112115441_student_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Repositories\\StudentRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:34:03.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:33:18.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Program.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:50:49.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:45:09.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Data\\StudentContext.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Data\\StudentContext.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Data\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:48:45.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Services\\StudentService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Services\\StudentService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:36:55.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Services\\IStudentService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Services\\IStudentService.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:36:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentEfWebApi.csproj",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\StudentEfWebApi.csproj",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\StudentEfWebApi.csproj",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\StudentEfWebApi.csproj",
+              "RelativeToolTip": "StudentEfWebApi\\StudentEfWebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T09:36:02.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241112115441_student_table.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Migrations\\20241112115441_student_table.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Migrations\\20241112115441_student_table.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Migrations\\20241112115441_student_table.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Migrations\\20241112115441_student_table.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:54:41.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\appsettings.json",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\appsettings.json",
+              "RelativeToolTip": "StudentEfWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T11:47:17.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.students.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/StudentDb/True/SqlTable/dbo.students.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/StudentDb/True/SqlTable/dbo.students.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-12T11:55:33.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentEfWebApi\\Models\\Student.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\StudentEfWebApi\\StudentEfWebApi\\Models\\Student.cs",
+              "RelativeToolTip": "StudentEfWebApi\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:44:33.246Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

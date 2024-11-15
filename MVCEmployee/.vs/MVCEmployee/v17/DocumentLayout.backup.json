@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/MVCEmployee/True/SqlTable/dbo.employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\data\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\migrations\\empcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\migrations\\empcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\migrations\\20241108103739_emptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\migrations\\20241108103739_emptable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|e:\\dotnet\\monocept_classes\\mvcemployee\\mvcemployee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2050BAE6-66C0-45ED-881A-46F000BF0594}|MVCEmployee\\MVCEmployee.csproj|solutionrelative:mvcemployee\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCEmployee\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "MVCEmployee\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:59:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCEmployee\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MVCEmployee\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:59:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCEmployee\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "MVCEmployee\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:53:47.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCEmployee\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCEmployee\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:50:59.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCEmployee\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MVCEmployee\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T10:48:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVCEmployee\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVCEmployee\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:40:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCEmployee\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCEmployee\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAzwEYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:40:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/MVCEmployee/True/SqlTable/dbo.employees.sql",
+              "ToolTip": "dbo.employees [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-08T10:39:01.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmpContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Migrations\\EmpContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MVCEmployee\\Migrations\\EmpContextModelSnapshot.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Migrations\\EmpContextModelSnapshot.cs",
+              "RelativeToolTip": "MVCEmployee\\Migrations\\EmpContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:37:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241108103739_emptable.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Migrations\\20241108103739_emptable.cs",
+              "RelativeDocumentMoniker": "MVCEmployee\\Migrations\\20241108103739_emptable.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Migrations\\20241108103739_emptable.cs",
+              "RelativeToolTip": "MVCEmployee\\Migrations\\20241108103739_emptable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:37:39.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Data\\EmpContext.cs",
+              "RelativeDocumentMoniker": "MVCEmployee\\Data\\EmpContext.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Data\\EmpContext.cs",
+              "RelativeToolTip": "MVCEmployee\\Data\\EmpContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:28:54.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCEmployee\\Models\\Employee.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\MVCEmployee\\MVCEmployee\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCEmployee\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:16:22.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

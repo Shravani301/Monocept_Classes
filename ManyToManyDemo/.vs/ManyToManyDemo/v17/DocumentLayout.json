@@ -68,7 +68,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,20 +81,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "dbo.CourseStudent [Data]",
+              "Title": "dbo.CourseStudent.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.CourseStudent.sql",
-              "ToolTip": "dbo.CourseStudent [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/ManyToManyDb/True/SqlTable/dbo.CourseStudent.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-06T09:07:50.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-11-06T09:07:50.385Z"
             },
             {
               "$type": "Document",
@@ -104,7 +95,7 @@
               "RelativeDocumentMoniker": "Repositories\\StudentRepository.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\ManyToManyDemo\\Repositories\\StudentRepository.cs",
               "RelativeToolTip": "Repositories\\StudentRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T10:20:40.897Z",
               "EditorCaption": ""
@@ -119,8 +110,7 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAowEsAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T10:20:05.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T10:20:05.992Z"
             },
             {
               "$type": "Document",
@@ -262,6 +252,14 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-11-05T09:35:28.51Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

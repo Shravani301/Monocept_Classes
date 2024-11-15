@@ -1,0 +1,527 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\services\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\dtos\\authordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\dtos\\authordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\dtos\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\models\\authordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\models\\authordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\services\\authordetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\services\\authordetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\services\\iauthordetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\services\\iauthordetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\authordetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\authordetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\iauthordetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\iauthordetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\controllers\\authordetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\controllers\\authordetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\authorbookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\authorbookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/BookDb/True/SqlTable/dbo.AuthorDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/BookDb/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\data\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|e:\\dotnet\\monocept_classes\\authorbookapi\\authorbookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{926502A9-DBED-443E-870B-79CF950832BD}|AuthorBookApi\\AuthorBookApi.csproj|solutionrelative:authorbookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Services\\IAuthorService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\IAuthorService.cs",
+              "RelativeToolTip": "AuthorBookApi\\Services\\IAuthorService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABDwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:31:57.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Services\\AuthorService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\AuthorService.cs",
+              "RelativeToolTip": "AuthorBookApi\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA1wFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:32:16.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorDetails.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Models\\AuthorDetails.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Models\\AuthorDetails.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Models\\AuthorDetails.cs",
+              "RelativeToolTip": "AuthorBookApi\\Models\\AuthorDetails.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:43:48.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Models\\Author.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Models\\Author.cs",
+              "RelativeToolTip": "AuthorBookApi\\Models\\Author.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:36:56.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorDto.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\DTOs\\AuthorDto.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\DTOs\\AuthorDto.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\DTOs\\AuthorDto.cs",
+              "RelativeToolTip": "AuthorBookApi\\DTOs\\AuthorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:56:30.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorDetailsDto.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\DTOs\\AuthorDetailsDto.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\DTOs\\AuthorDetailsDto.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\DTOs\\AuthorDetailsDto.cs",
+              "RelativeToolTip": "AuthorBookApi\\DTOs\\AuthorDetailsDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:10:19.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Mappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Mappers\\MappingProfile.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Mappers\\MappingProfile.cs",
+              "RelativeToolTip": "AuthorBookApi\\Mappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAzwA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:56:49.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "AuthorBookApi\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:29:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorDetailsService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\AuthorDetailsService.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Services\\AuthorDetailsService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\AuthorDetailsService.cs",
+              "RelativeToolTip": "AuthorBookApi\\Services\\AuthorDetailsService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:58:10.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Services\\IBookService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\IBookService.cs",
+              "RelativeToolTip": "AuthorBookApi\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:58:23.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthorDetailsService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\IAuthorDetailsService.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Services\\IAuthorDetailsService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\IAuthorDetailsService.cs",
+              "RelativeToolTip": "AuthorBookApi\\Services\\IAuthorDetailsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:57:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\Repository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\Repository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAzwCkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:03:09.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthorDetailsRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\AuthorDetailsRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\AuthorDetailsRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\AuthorDetailsRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\AuthorDetailsRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:59:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthorDetailsRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IAuthorDetailsRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\IAuthorDetailsRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IAuthorDetailsRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\IAuthorDetailsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:59:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorDetailsController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Controllers\\AuthorDetailsController.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Controllers\\AuthorDetailsController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Controllers\\AuthorDetailsController.cs",
+              "RelativeToolTip": "AuthorBookApi\\Controllers\\AuthorDetailsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAywCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:30:32.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "AuthorBookApi\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBCwDYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:30:16.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Services\\BookService.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Services\\BookService.cs",
+              "RelativeToolTip": "AuthorBookApi\\Services\\BookService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBCwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:58:39.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\DTOs\\BookDto.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "AuthorBookApi\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:10:30.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Models\\Book.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Models\\Book.cs",
+              "RelativeToolTip": "AuthorBookApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:39:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Program.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Program.cs",
+              "RelativeToolTip": "AuthorBookApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:51:41.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:00:08.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthorBookApi.csproj",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\AuthorBookApi.csproj",
+              "RelativeDocumentMoniker": "AuthorBookApi\\AuthorBookApi.csproj",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\AuthorBookApi.csproj",
+              "RelativeToolTip": "AuthorBookApi\\AuthorBookApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T06:56:06.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\IRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:02:54.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:35:00.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.AuthorDetails.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/BookDb/True/SqlTable/dbo.AuthorDetails.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/BookDb/True/SqlTable/dbo.AuthorDetails.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T11:50:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.Books.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/BookDb/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/SHRAVANI_SQLEXPRESS/BookDb/True/SqlTable/dbo.Books.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T11:49:01.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\IAuthorRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IAuthorRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:34:49.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Repositories\\IBookRepository.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "AuthorBookApi\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:59:55.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Data\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "AuthorBookApi\\Data\\LibraryContext.cs",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\Data\\LibraryContext.cs",
+              "RelativeToolTip": "AuthorBookApi\\Data\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:48:58.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthorBookApi\\appsettings.json",
+              "ToolTip": "E:\\DotNet\\Monocept_Classes\\AuthorBookApi\\AuthorBookApi\\appsettings.json",
+              "RelativeToolTip": "AuthorBookApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T11:34:58.715Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

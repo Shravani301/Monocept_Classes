@@ -1,0 +1,19 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TempDataDisplay</title>
+</head>
+<body>
+    <div> 
+        <h3>temp data with access in other method</h3>
+        <p>@Html.Raw(ViewBag.Message1.Replace("\n", "<br />"))</p>
+    </div>
+</body>
+</html>

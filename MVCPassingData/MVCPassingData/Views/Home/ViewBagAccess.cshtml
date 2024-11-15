@@ -1,0 +1,19 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ViewBagAccess</title>
+</head>
+<body>
+    <div> 
+        <h3>ViewBag</h3>
+        <p>@Html.Raw(ViewBag.Message.Replace("\n", "<br />"))</p>
+    </div>
+</body>
+</html>

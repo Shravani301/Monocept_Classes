@@ -29,6 +29,14 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Department.cs",
@@ -38,8 +46,7 @@
               "RelativeToolTip": "Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T11:33:18.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T11:33:18.803Z"
             },
             {
               "$type": "Document",
@@ -51,29 +58,19 @@
               "RelativeToolTip": "Models\\Employee.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA4wAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T10:43:33.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T10:43:33.748Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "LinQEmp",
+              "Title": "LinQEmp.csproj",
               "DocumentMoniker": "E:\\DotNet\\Monocept_Classes\\LinQEmp\\LinQEmp.csproj",
               "RelativeDocumentMoniker": "LinQEmp.csproj",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\LinQEmp\\LinQEmp.csproj",
               "RelativeToolTip": "LinQEmp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T10:40:01.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2024-11-06T10:40:01.195Z"
             },
             {
               "$type": "Document",
@@ -83,7 +80,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\DotNet\\Monocept_Classes\\LinQEmp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAnwHMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T10:39:53.174Z",
               "EditorCaption": ""

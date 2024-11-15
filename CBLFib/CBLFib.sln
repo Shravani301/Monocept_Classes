@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBLFib", "CBLFib\CBLFib.csproj", "{043ECC7B-4B2A-4F0B-BAC2-8537133282C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043ECC7B-4B2A-4F0B-BAC2-8537133282C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043ECC7B-4B2A-4F0B-BAC2-8537133282C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043ECC7B-4B2A-4F0B-BAC2-8537133282C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043ECC7B-4B2A-4F0B-BAC2-8537133282C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C29C28-A17E-438F-B663-D96D037ABF76}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿@using LoginVM.Models
+@model Login
+
+
+<style>
+    .validation-summary-errors {
+        color: red;
+    }
+</style>
+
+@using (Html.BeginForm(actionName: "Index", controllerName: "Home", method: FormMethod.Post))
+{
+    <p>
+        UserName:@Html.TextBoxFor(model => model.UserName)
+    </p>
+    <p>
+        Password:@Html.PasswordFor(model => model.Password)
+    </p>
+    @*if (Model != null)
+        {
+            <p style="color:red">@Model.ErrorMessage</p>
+        }*@
+    <input type="submit" value="Login" />
+    <p>
+        @Html.ValidationSummary()
+    </p>
+}
