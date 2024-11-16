@@ -45,6 +45,15 @@ namespace AuthorBookApi.Controllers
 
             return NotFound("No such Book found");
         }
+
+        [HttpGet("author/{id}")]
+        public IActionResult GetBooksbyAuthorId(int id)
+        {
+            var bookDtos = _bookService.GetBooksByAuthorId(id);
+            if (bookDtos != null)
+                return Ok(bookDtos);
+            return NotFound("Books do not exist");
+        }
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {

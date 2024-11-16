@@ -1,4 +1,5 @@
 ﻿using AuthorBookApi.DTOs;
+using AuthorBookApi.Exceptions;
 using AuthorBookApi.Models;
 using AuthorBookApi.Repositories;
 using AutoMapper;
@@ -22,7 +23,6 @@ namespace AuthorBookApi.Services
              _bookRepository.Add(book);
             return book.Id;
         }
-
         public bool Delete(int id)
         {
             var existingBook = _bookRepository.GetById(id);
@@ -31,22 +31,40 @@ namespace AuthorBookApi.Services
                 _bookRepository.Delete(existingBook);
                 return true;
             }
-            return false;
+            throw new BookNotFoundException("Book not found to delete");
         }
 
        
         public BookDto GetBookById(int id)
         {
             var book = _bookRepository.GetById(id);
-            BookDto bookDto= _mapper.Map<BookDto>(book);
-            return bookDto; 
+            if (book != null)
+            {
+                BookDto bookDto = _mapper.Map<BookDto>(book);
+                return bookDto;
+            }
+            throw new BookNotFoundException("Book not found");
         }
 
         public List<BookDto> GetBooks()
         {
             var books= _bookRepository.GetAll().ToList();
-            List<BookDto> bookDtos = _mapper.Map<List<BookDto>>(books);
-            return bookDtos;
+            if (books != null)
+            {
+                List<BookDto> bookDtos = _mapper.Map<List<BookDto>>(books);
+                return bookDtos;
+            }
+            throw new BooksDoesNotExistException("Books does not exist");
+        }
+        public List<BookDto> GetBooksByAuthorId(int authorId)
+        {
+            var books = _bookRepository.GetAll().Include(a => a.Author).FirstOrDefault(a => a.Id == authorId);
+            if (books != null)
+            {
+                List<BookDto> bookDtos = _mapper.Map<List<BookDto>>(books);
+                return bookDtos;
+            }
+            throw new BooksDoesNotExistException("Books does not exist");
         }
 
         public bool Update(BookDto bookDto)
@@ -60,7 +78,7 @@ namespace AuthorBookApi.Services
                 _bookRepository.Update(book);
                 return true;
             }
-            return false;
+            throw new BookNotFoundException("Book not found");
         }
     }
 }

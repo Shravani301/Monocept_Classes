@@ -38,21 +38,21 @@ namespace AuthorBookApi.Controllers
         [HttpPut]
         public IActionResult Modify(AuthorDetailsDto authorDetailsDto)
         {
-            if (_authorDetailsService.Update(authorDetailsDto))
-
+            _authorDetailsService.Update(authorDetailsDto);
                 return Ok(authorDetailsDto);
-
-            return NotFound("No such authorDetails found");
         }
+        [HttpGet("author/{id}")]
+        public IActionResult GetAuthorDetailsByAuthorId(int id)
+        {
+            var authorDetails = _authorDetailsService.GetAuthorDetails(id);
+            return Ok(authorDetails);
+        }
+
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            if (_authorDetailsService.Delete(id))
-            {
+            _authorDetailsService.Delete(id);
                 return Ok("Author Details Deleted Successfully");
-            }
-            return NotFound("No such authorDetails found to delete");
         }
-
     }
 }

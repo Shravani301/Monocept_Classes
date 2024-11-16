@@ -1,4 +1,5 @@
 ﻿using AuthorBookApi.DTOs;
+using AuthorBookApi.Exceptions;
 using AuthorBookApi.Models;
 using AuthorBookApi.Repositories;
 using AutoMapper;
@@ -30,21 +31,29 @@ namespace AuthorBookApi.Services
                 _authorRepository.Delete(existingAuthor);
                 return true;
             }
-            return false;
+            throw new AuthorNotFoundException("No such author found to delete");
         }
 
         public AuthorDto GetAuthorById(int id)
         {
             var author= _authorRepository.GetById(id);
-            AuthorDto authorDto=_mapper.Map< AuthorDto>(author);    
-            return authorDto;
+            if (author != null)
+            {
+                AuthorDto authorDto = _mapper.Map<AuthorDto>(author);
+                return authorDto;
+            }
+            throw new AuthorNotFoundException("No such author found");
         }
         
         public List<AuthorDto> GetAuthors()
         {
             var authors=_authorRepository.GetAll().Include(a=>a.AuthorDetails).Include(a=>a.Books).ToList();
-            List<AuthorDto> authorDtos = _mapper.Map<List<AuthorDto>>(authors);
-            return authorDtos;
+            if (authors != null)
+            {
+                List<AuthorDto> authorDtos = _mapper.Map<List<AuthorDto>>(authors);
+                return authorDtos;
+            }
+            throw new AuthorsDoesNotExistException("No Authors Exist");
         }
 
         public bool Update(AuthorDto authorDto)
@@ -56,35 +65,24 @@ namespace AuthorBookApi.Services
                 _authorRepository.Update(author);
                 return true;
             }
-            return false;
+            throw new AuthorNotFoundException("No such author found");
         }
 
         public AuthorDto GetAuthorByName(string name)
         {
             var author = _authorRepository.GetAll().FirstOrDefault(a => a.Name == name);
-            AuthorDto authorDto = _mapper.Map<AuthorDto>(author);
-            return authorDto;
-        }
-
-        public AuthorDetailsDto GetAuthorDetails(int id)
-        {
-            var authorDetails = _authorRepository.GetAll().
-                Include(a => a.AuthorDetails).FirstOrDefault(a => a.Id == id)?.AuthorDetails;
-            var authorDetailsDto=_mapper.Map<AuthorDetailsDto>(authorDetails);
-            return authorDetailsDto;
-        }
-        public List<BookDto> GetBooksByAuthorId(int authorId)
-        {
-            var books = _authorRepository.GetAll().Include(b => b.Books).FirstOrDefault(a => a.Id == authorId)?.Books;
-            List<BookDto> bookDtos=_mapper.Map<List<BookDto>>(books);   
-            return bookDtos;
+            if (author != null)
+            {
+                AuthorDto authorDto = _mapper.Map<AuthorDto>(author);
+                return authorDto;
+            }
+            throw new AuthorNotFoundException($"No such author found by given name:{name}");
         }
         public AuthorDto GetAuthorByBookId(int bookId)
         {
             var author = _authorRepository.GetAll().Include(b => b.Books).FirstOrDefault(a => a.Id == bookId);
             AuthorDto authorDto = _mapper.Map<AuthorDto>(author);
             return authorDto;
-
         }
     }
 }

@@ -40,57 +40,28 @@ namespace AuthorBookApi.Controllers
         [HttpPut]
         public IActionResult Modify(AuthorDto authorDto)
         {
-            if (_authorService.Update(authorDto))
-
-                return Ok(authorDto);
-
-            return NotFound("No such Author found");
-        }
-
-        [HttpGet("by-name/{name}")]
-        public IActionResult GetByName(string name)
-        {
-            var authorDto = _authorService.GetAuthorByName(name);
-            if (authorDto == null)
-                return NotFound("No such author found");
+            _authorService.Update(authorDto);
             return Ok(authorDto);
         }
 
-        [HttpGet("{id}/details")]
-        public IActionResult GetAuthorDetailsById(int id)
+        [HttpGet("author/{name}")]
+        public IActionResult GetByName(string name)
         {
-            var authorDetails = _authorService.GetAuthorDetails(id);
-            if (authorDetails == null)
-                return NotFound("No such Author Found");
-            return Ok(authorDetails);
+            var authorDto = _authorService.GetAuthorByName(name);
+            return Ok(authorDto);
         }
 
-        [HttpGet("{id}/books")]
-        public IActionResult GetBooksbyAuthorId(int id)
-        {
-            var bookDtos = _authorService.GetBooksByAuthorId(id);
-            if (bookDtos != null)
-                return Ok(bookDtos);
-            return NotFound("Books do not exist");
-        }
-
-        [HttpGet("author/{id}")]
+        [HttpGet("book/{id}")]
         public IActionResult GetAuthorByBookId(int id)
         {
             var authorDto = _authorService.GetAuthorByBookId(id);
-            if (authorDto == null)
-                return NotFound("Author does not exist");
             return Ok(authorDto);
         }
 
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            if (_authorService.Delete(id))
-            {
-                return Ok("Deleted Successfully!");
-            }
-            return NotFound("No such Author found to delete");
+            return Ok("Deleted Successfully!");
         }
     }
 }

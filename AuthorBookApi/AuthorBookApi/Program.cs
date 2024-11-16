@@ -1,5 +1,6 @@
 
 using AuthorBookApi.Data;
+using AuthorBookApi.Exceptions;
 using AuthorBookApi.Mappers;
 using AuthorBookApi.Repositories;
 using AuthorBookApi.Services;
@@ -46,7 +47,9 @@ namespace AuthorBookApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddExceptionHandler<AppExceptionHandler>();
             var app = builder.Build();
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -55,6 +58,7 @@ namespace AuthorBookApi
                 app.UseSwaggerUI();
             }
 
+            app.UseExceptionHandler(_ => { });
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

@@ -10,5 +10,6 @@ namespace AuthorBookApi.Services
         public int Add(BookDto bookDto);
         public bool Update(BookDto bookDto);
         public bool Delete(int id);
+        public List<BookDto> GetBooksByAuthorId(int authorId);
     }
 }
